@@ -12,6 +12,8 @@
   --second-color: #0E2431;
 }
 
+
+
 /*===== Fuente y tipografia =====*/
 :root{
   --body-font: 'Poppins', sans-serif;
@@ -329,14 +331,14 @@ img{
 }
 
 .work__card{
-   box-shadow: 0 4px 25px rgba(14,36,49,.15);
+box-shadow: 0 4px 25px rgba(14,36,49,.15);
   border-radius: .5rem;
   overflow: hidden;
 }
 
 .bg_color_card
 {
-  background-color: var(--first-color);
+  background-color: var(red);
   
 }
 
